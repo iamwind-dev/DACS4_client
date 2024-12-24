@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="lib/flatlaf-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/flatlaf-intellij-themes-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/socket/engine.io-client-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/socket/json-20090211.jar"/>
+	<classpathentry kind="lib" path="lib/socket/okhttp-3.12.12.jar"/>
+	<classpathentry kind="lib" path="lib/socket/okio-1.15.0.jar"/>
+	<classpathentry kind="lib" path="lib/socket/socket.io-client-1.0.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
